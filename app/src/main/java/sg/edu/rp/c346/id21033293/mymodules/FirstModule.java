@@ -9,6 +9,7 @@ import android.widget.TextView;
 public class FirstModule extends AppCompatActivity {
 
     TextView tvmod1;
+    //create variable
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
